@@ -1,1 +1,2 @@
-# primeiro
+P{
+text-algn:center
