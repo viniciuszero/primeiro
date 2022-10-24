@@ -6,23 +6,16 @@ body{
 
 }
 
-h1 {
+p {
     text-align: center
   {
-     text align: center;
- p {
- text-align: center;
-  }
- 
- #missao {
-      font-size: 20px;
-      color: #ff0000;
+    
+ em strong {
+     color:#ff0000;
  }
  
+ 
 
-
- em strong{
-   color: #ff0000;
- }
+ 
 
  
