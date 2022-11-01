@@ -4,23 +4,22 @@ body{
 
  #banner {
     width: 100%;
+ }
 
 
-
-h1{
+h1 {
      text-align: center;
 }
 
 p {
     text-align: center
 }
-
- #missão {
+#missão {
     font-size: 20px;
  }
  
-  em strong {
-          color:#ff0000;
+ em strong { 
+         color:#ff0000;
  }
  
  
