@@ -1,13 +1,16 @@
 body{
-   background: #cccccc
+   
 }
 
  #banner {
      width: 100%;
  }
 
+.principal{
+    background: #ccccc
+}
 
-h1 {
+ h1 {
      text-align: center;
 }
 
